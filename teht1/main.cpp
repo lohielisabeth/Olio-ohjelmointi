@@ -3,6 +3,7 @@
 #include <ctime>
 
 using namespace std;
+
 int arvaukset;
 int luku;
 int suurin = 40;
